@@ -1,4 +1,4 @@
 {
- "Module": "https://cdn.discordapp.com/attachments/1142423567259156480/1168573082995269682/Module.dll",
- "FluxteamAPI": "https://cdn.discordapp.com/attachments/1142423567259156480/1168573083335000284/FluxteamAPI.dll"
+ "Module": "https://raw.githubusercontent.com/ItzzExcel/LInjector/master/Redistributables/DLLs/Module.dll",
+ "FluxteamAPI": "https://raw.githubusercontent.com/ItzzExcel/LInjector/master/Redistributables/DLLs/FluxteamAPI.dll"
 }
